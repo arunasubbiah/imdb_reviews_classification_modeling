@@ -1,4 +1,3 @@
-# Capstone Project 2
 # IMDB Dataset - Classification Models Comparison
 
 Binary sentiment classification is analyzing customers opinion such as online reviews or survey responses as positive or negative. It helps to understand how well a product or service is doing in the market and helps stakeholders to take swift action based on the analysis.  
